@@ -1,5 +1,7 @@
 <template>
-  <div>
-    <NuxtWelcome />
-  </div>
+  <section>
+    <div class="container">
+      <AgeCalculator />
+    </div>
+  </section>
 </template>
